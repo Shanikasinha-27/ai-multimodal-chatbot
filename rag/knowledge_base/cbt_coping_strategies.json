@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cbt-cognitive-reframing",
+    "title": "Cognitive Reframing (Challenging Cognitive Distortions)",
+    "category": "cbt",
+    "triggers": ["catastrophizing", "all-or-nothing", "failure", "impostor syndrome", "hopeless", "negative thoughts"],
+    "content": "Cognitive reframing guides you to examine automatic negative thoughts:\n1. Identify the Automatic Thought: e.g., 'I will mess everything up and fail.'\n2. Check the Evidence: What real facts support this? What facts contradict it?\n3. Identify the Distortion: Is this catastrophizing, black-and-white thinking, or mind-reading?\n4. Craft a Balanced Alternative: 'This is challenging, but I have navigated tough moments before, and doing my best is enough.'"
+  },
+  {
+    "id": "cbt-worry-postponement",
+    "title": "The Worry Tree & Postponement Technique",
+    "category": "cbt",
+    "triggers": ["worry", "rumination", "overthinking", "what-if thoughts"],
+    "content": "When caught in loops of 'what-if' thoughts:\n1. Ask: 'Is this worry something I have direct control over right now?'\n2. If YES: Identify one small, actionable step you can take today. Write it down, then gently shift focus to the next task.\n3. If NO: Recognize that worrying does not change the outcome. Acknowledge the thought without judgment, imagine placing it in a jar to look at during a designated 10-minute 'worry time' later, and return to the present moment."
+  },
+  {
+    "id": "cbt-self-compassion-break",
+    "title": "Mindful Self-Compassion Break (Dr. Kristin Neff)",
+    "category": "cbt",
+    "triggers": ["self-criticism", "guilt", "shame", "feeling unlovable", "hard on myself"],
+    "content": "A 3-step self-compassion practice for moments of emotional distress:\n1. Mindfulness: Place your hand on your heart or stomach and say: 'This is a moment of suffering / This hurts.'\n2. Common Humanity: Remind yourself: 'Suffering and struggling are part of being human. I am not weird or alone in feeling this.'\n3. Kindness: Say to yourself: 'May I be kind to myself in this moment. May I give myself the patience and grace I need.'"
+  }
+]

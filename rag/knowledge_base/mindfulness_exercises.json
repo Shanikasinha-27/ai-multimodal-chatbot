@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mindfulness-anchor-breath",
+    "title": "Finding Your Anchor Breath",
+    "category": "mindfulness",
+    "triggers": ["scattered", "distracted", "emotional turbulence", "hyperactive mind"],
+    "content": "An anchor breath serves as an emotional home base during emotional turbulence:\n1. Choose an anchor spot where you feel your breath most clearly (the tip of your nostrils, chest rising and falling, or abdomen expanding).\n2. Without forcing or changing the breath, simply observe its natural cadence.\n3. Whenever thoughts, emotions, or worries carry your attention away, gently label it ('thinking' or 'feeling') and guide your attention back to your anchor breath with zero judgment."
+  },
+  {
+    "id": "mindfulness-leaves-on-stream",
+    "title": "Leaves on a Stream (Defusion Exercise)",
+    "category": "mindfulness",
+    "triggers": ["obsessive thoughts", "sticky thoughts", "overwhelmed by ideas", "racing mind"],
+    "content": "A visualization exercise to detach from distressing thoughts:\n1. Close your eyes and visualize a gentle, slow-moving stream with autumn leaves drifting on its surface.\n2. Whenever a thought, emotion, or image enters your mind, imagine placing it onto one of the leaves.\n3. Watch the leaf float down the stream, around a bend, and out of sight at its own pace.\n4. If your mind says 'This is ridiculous,' place that thought onto a leaf too, and watch it float away."
+  }
+]

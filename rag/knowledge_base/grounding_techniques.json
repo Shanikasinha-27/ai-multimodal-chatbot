@@ -1,0 +1,23 @@
+[
+  {
+    "id": "grounding-54321",
+    "title": "5-4-3-2-1 Sensory Grounding Technique",
+    "category": "grounding",
+    "triggers": ["panic", "anxiety", "dissociation", "overwhelmed", "racing thoughts", "ungrounded"],
+    "content": "The 5-4-3-2-1 technique anchors you in the present moment by engaging all five senses:\n1. Notice 5 things you can SEE around you (e.g., a spot on the wall, the way light hits a surface).\n2. Notice 4 things you can physically FEEL or TOUCH (e.g., the texture of your shirt, feet on the floor).\n3. Notice 3 things you can HEAR (e.g., birds chirping, humming of a fan, distant cars).\n4. Notice 2 things you can SMELL (or favorite scents you remember, like coffee or fresh rain).\n5. Notice 1 thing you can TASTE (or take a gentle sip of cold water)."
+  },
+  {
+    "id": "grounding-box-breathing",
+    "title": "Box Breathing (Square Breathing)",
+    "category": "grounding",
+    "triggers": ["acute anxiety", "panic attack", "high stress", "rapid breathing", "shaking"],
+    "content": "Box breathing regulates your autonomic nervous system and lowers heart rate:\n1. Inhale deeply through your nose for a count of 4.\n2. Hold your breath gently for a count of 4.\n3. Slowly exhale through your mouth for a count of 4.\n4. Pause and hold the empty lungs for a count of 4.\nRepeat this cycle 4 to 5 times while resting your hands on your lap."
+  },
+  {
+    "id": "grounding-progressive-relaxation",
+    "title": "Progressive Muscle Relaxation (PMR)",
+    "category": "grounding",
+    "triggers": ["tension", "physical stress", "insomnia", "restless", "jaw clenching"],
+    "content": "Progressive Muscle Relaxation helps release physical somatic tension:\n1. Start with your feet: curl your toes tightly for 5 seconds, then completely release and feel the warmth.\n2. Tense your calves and thighs for 5 seconds, then let go.\n3. Make tight fists with your hands, squeeze your arms, hold, and release.\n4. Scrunch your facial muscles and shoulders up toward your ears, hold for 5 seconds, and let your shoulders drop completely.\n5. Notice the contrast between tension and deep relaxation."
+  }
+]
